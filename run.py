@@ -16,7 +16,7 @@ def run_stuff():
     Runs the autoencoder, nn trainer and unknown predictions.
     Writes predictions to the predictions.txt file
     """
-    auto_result = auto_encoder(1000)
+    auto_nn = auto_encoder(1000)
     nn = auc_for_all_optimized_params()
     unknown_dict = predict_unknowns(nn)
 

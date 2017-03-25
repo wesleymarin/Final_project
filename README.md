@@ -1,7 +1,7 @@
-# HW2 Skeleton
+# Final project
 
 [![Build
-Status](https://travis-ci.org/wesleymarin/HW3.svg?branch=master)](https://travis-ci.org/wesleymarin/HW3)
+Status](https://travis-ci.org/wesleymarin/Final_project.svg?branch=master)](https://travis-ci.org/wesleymarin/Final_project)
 
 
 ## testing
