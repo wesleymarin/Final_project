@@ -580,4 +580,4 @@ def auc_for_all_optimized_params():
     plt.legend(loc='lower right')
     #plt.show()
 
-    return(nn)
+    return(nn, area_under_curve)
